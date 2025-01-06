@@ -14,6 +14,8 @@ To make this résumé yours, clone this repo and fill in the appropriate informa
 
 You will of course need LaTeX on your system. The `Makefile` included relies on [latexmk](https://www.cantab.net/users/johncollins/latexmk/), which should be included with the TeXLive distribution. I believe I installed LaTeX with `brew install --cask mactex-no-gui` on my macOS system; search the web for how to install LaTeX on your operating system.
 
+Once you've installed LaTeX, (and, assuming you have `make` installed as well) you should just be able to run `make` or `make resume.pdf` and the résumé will build.
+
 ### Typeface
 
 The typeface this is setup to use is [Source Sans](https://github.com/adobe-fonts/source-sans), a free and open-source font made by Adobe. You will need to install Source Sans on your system before proceeding.
