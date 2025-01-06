@@ -3,6 +3,8 @@ My Résumé Template
 
 This is approximately the template I use for my résumé. I can't remember the original source; I've changed it enough that it doesn't look anything like the original now, however.
 
+[→ What it looks like](./example_resume.pdf)
+
 Using
 -----
 
